@@ -1,4 +1,4 @@
-# Surfs_up
+# Surfs_up_Analysis 
 
 Analyzing weather data in jupyter notebook
 
